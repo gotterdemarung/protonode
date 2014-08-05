@@ -1,0 +1,9 @@
+{
+  "name": "protonode",
+  "version": "0.0.1",
+  "description": "TBA",
+  "main": "server.js",
+  "repository": "",
+  "author": "Anton Dorofieiev <gotterdemarung@gmail.com>",
+  "dependencies": {}
+}
